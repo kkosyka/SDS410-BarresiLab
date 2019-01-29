@@ -1,30 +1,29 @@
-## 2019-02-05
+## 2019-01-29
 
 ### What did you do this week?
 
-- Julia
+- Crystal
     - blah
-- Marta
+- Emma
     - blah
-- Mirella
+- Kalynn
     - blah
 
 ### What is it that you're struggling with right now?
 
-- Julia
+- Crystal
     - blah
-- Marta
+- Emma
     - blah
-- Mirella
+- Kalynn
     - blah
 
 ### What are you planning to do next week?
 
-- Julia
+- Crystal
     - blah
-- Marta
+- Emma
     - blah
-- Mirella
+- Kalynn
     - blah
 
-## 2019-02-12
