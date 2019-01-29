@@ -1,2 +1,2 @@
-# ceeds
-capstone project: CEEDS
+# Barresi Lab
+Capstone Project: Barressi Lab
