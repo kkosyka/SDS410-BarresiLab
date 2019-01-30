@@ -3,7 +3,7 @@
 ### What did you do this week?
 
 - Crystal
-    - blah
+    - Set up Python environment-Anaconda
 - Emma
     - blah
 - Kalynn
