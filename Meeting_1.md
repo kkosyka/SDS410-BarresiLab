@@ -7,7 +7,9 @@
 - Emma
     - blah
 - Kalynn
-    - blah
+    - Create repos/git related, help others set up
+    - Install DeltaScope as is
+    - Very BRIEFLY looked at existing code
 
 ### What is it that you're struggling with right now?
 
