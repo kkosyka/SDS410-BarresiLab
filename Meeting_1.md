@@ -5,7 +5,7 @@
 - Crystal
     - Set up Python environment-Anaconda
 - Emma
-    - blah
+    - Set up Python environment-Anaconda
 - Kalynn
     - Create repos/git related, help others set up
     - Install DeltaScope as is
@@ -16,7 +16,7 @@
 - Crystal
     - blah
 - Emma
-    - blah
+    - We will know after we meet up with our client
 - Kalynn
     - blah
 
@@ -25,7 +25,7 @@
 - Crystal
     - blah
 - Emma
-    - blah
+    - Meeting with our client and set up a plan for the week/coming week
 - Kalynn
     - blah
 
