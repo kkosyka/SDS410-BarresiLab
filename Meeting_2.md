@@ -21,6 +21,14 @@
    -Flatten the data into 2D/line in order to analyze  
 --commissure?
 
+### Sharable Data 
+   -Share large data file
+   -Purpose is to enable other researchers to test on our data
+   -Options: github? R package?
+   
+### Next Step
+   -Transfer data to R package
+   
 ### What did you do this week?
 
 - Crystal
