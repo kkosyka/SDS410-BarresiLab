@@ -1,14 +1,25 @@
 ## 2019-02-05
 
-### Meeting Notes
-## Big idea: qualitative data (image)---> quantitative (coordinates) ---> Statistical Analysis
+## Meeting Notes
+### Big idea: qualitative data (image)---> quantitative (coordinates) ---> Statistical Analysis
    -After collecting multiple samples (fish brains), we want to quantify and standardize the data
-## Data file 
-   -Imgae file format:
-    -tif: 3D 
-    -hdf5: multidimentional analysis of data
+### Data file 
+   -Imgae file format:  
+     -tif: 3D   
+     -hdf5: multidimentional analysis of data  
    -Store image data, 3D stacks of data
-
+### Process
+   - First, using Principal Component to adjust/align coordinates
+   - Next, Using Dealtascope fit the models
+   - Transfer "Cube Data" to "Point Cloud File"
+### Point Cloud File
+   -Model align with zebrafish brain structure
+   -Data points are wraped around the model
+   -Data points in comparison to the model
+   -Data points in orientation to the model
+   -Data move with the model
+   -Flatten the data into 2D/line in order to analyze
+--commissure?
 
 ### What did you do this week?
 
