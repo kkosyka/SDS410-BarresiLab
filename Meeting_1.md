@@ -4,6 +4,8 @@
 
 - Crystal
     - Set up Python environment-Anaconda
+    - Tried to download DeltaScope, ran into issue
+    - Created a copy of the original deltascope Repository.
 - Emma
     - Set up Python environment-Anaconda
 - Kalynn
@@ -14,7 +16,9 @@
 ### What is it that you're struggling with right now?
 
 - Crystal
-    - blah
+    - Do not have access to data
+    - Can't understand Github code
+    - Need to get more information from the in-person meeting with our client on 2/5.
 - Emma
     - We will know after we meet up with our client
 - Kalynn
@@ -24,7 +28,8 @@
 ### What are you planning to do next week?
 
 - Crystal
-    - blah
+    - Understand the code
+    - Start to run DeltaScope software with the data
 - Emma
     - Meeting with our client and set up a plan for the week/coming week
 - Kalynn
