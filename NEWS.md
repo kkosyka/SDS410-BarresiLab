@@ -40,3 +40,31 @@
     - Get existing Delta Scope to work?
     - Look further into the code
 
+
+## 2019-01-29
+
+ ### What did you do this week?
+
+ - Crystal
+
+ - Emma
+
+ - Kalynn
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+
+ - Emma
+
+ - Kalynn
+
+
+### What are you planning to do next week?
+
+ - Crystal
+
+ - Emma
+
+ - Kalynn
