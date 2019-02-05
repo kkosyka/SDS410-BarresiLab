@@ -5,7 +5,7 @@
    -After collecting multiple samples (fish brains), we want to quantify and standardize the data
 ### Data file 
    -Imgae file format:  
-     -tif: 3D   
+     -tiff: 3D   
      -hdf5: multidimentional analysis of data  
    -Store image data, 3D stacks of data
 ### Process
