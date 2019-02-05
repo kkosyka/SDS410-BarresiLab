@@ -13,12 +13,12 @@
    - Next, Using Dealtascope fit the models
    - Transfer "Cube Data" to "Point Cloud File"
 ### Point Cloud File
-   -Model align with zebrafish brain structure
-   -Data points are wraped around the model
-   -Data points in comparison to the model
-   -Data points in orientation to the model
-   -Data move with the model
-   -Flatten the data into 2D/line in order to analyze
+   -Model align with zebrafish brain structure  
+   -Data points are wraped around the model   
+   -Data points in comparison to the model  
+   -Data points in orientation to the model  
+   -Data move with the model  
+   -Flatten the data into 2D/line in order to analyze  
 --commissure?
 
 ### What did you do this week?
