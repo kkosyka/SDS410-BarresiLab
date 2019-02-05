@@ -18,7 +18,8 @@
 - Emma
     - We will know after we meet up with our client
 - Kalynn
-    - blah
+    - We will know after we meet up with our client
+    - Getting existing Delta Scope to work, need to download needed dependencies, will look further after meeting w client
 
 ### What are you planning to do next week?
 
@@ -27,5 +28,7 @@
 - Emma
     - Meeting with our client and set up a plan for the week/coming week
 - Kalynn
-    - blah
+    - We will know after we meet up with our client
+    - Get existing Delta Scope to work?
+    - Look further into the code
 
