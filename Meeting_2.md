@@ -1,4 +1,14 @@
-## 2019-02-25
+## 2019-02-05
+
+### Meeting Notes
+## Big idea: qualitative data (image)---> quantitative (coordinates) ---> Statistical Analysis
+   -After collecting multiple samples (fish brains), we want to quantify and standardize the data
+## Data file 
+   -Imgae file format:
+    -tif: 3D 
+    -hdf5: multidimentional analysis of data
+   -Store image data, 3D stacks of data
+
 
 ### What did you do this week?
 
