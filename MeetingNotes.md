@@ -18,8 +18,9 @@
    -Data points in comparison to the model  
    -Data points in orientation to the model  
    -Data move with the model  
-   -Flatten the data into 2D/line in order to analyze  
---commissure?
+   -Flatten the data into 2D/line in order to analyze    
+
+-Goal:commissure align at the origin
 
 ### Sharable Data 
    -Share large data file
@@ -27,31 +28,9 @@
    -Options: github? R package?
    
 ### Next Step
+   -Watch Morgan's video 
+   -Follow up to run the program with the data
    -Transfer data to R package
    
-### What did you do this week?
 
-- Crystal
-
-- Emma
-   
-- Kalynn
-   
-
-### What is it that you're struggling with right now?
-
-- Crystal
-    
-- Emma
- 
-- Kalynn
-   
-
-### What are you planning to do next week?
-
-- Crystal
-   
-- Emma
-   
-- Kalynn
   
