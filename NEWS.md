@@ -46,25 +46,51 @@
  ### What did you do this week?
 
  - Crystal
-
+    - met w client
+    - went through morgan's tutorial
+    - attempted to follow along tutorial
+    - got the data on hard drive
+    - drew hand written letters 
+    
  - Emma
-
+    - met w client
+    - went throguh morgan's tutorial
+    - attempted to follow along tutorial
+    - got the data on harddrive, copied from Crystal
+    - went to Oregon for presenation
+    
  - Kalynn
+    - met w client
+    - went throguh morgan's tutorial
+    - attempted to follow along tutorial
+    - sent oak to get spayed
 
 
 ### What is it that you're struggling with right now?
 
  - Crystal
-
+     - unable to change kernel in jypter (no deltascope :( )
+     
  - Emma
-
+     - unable to change kernel in jypter (no deltascope :( )
+     
  - Kalynn
+     - unable to change kernel in jypter (no deltascope :( )
 
 
 ### What are you planning to do next week?
 
  - Crystal
-
+    - meet w jake to discuss the installations
+    - get updated code
+    - get the big data
+    
  - Emma
-
+    - meet w jake to discuss the installations
+    - get updated code
+    - get the big data
+    
  - Kalynn
+    - meet w jake to discuss the installations
+    - get updated code
+    - get the big data
