@@ -8,7 +8,9 @@
     - Ran landmarks, tried different bin values
     
  - Emma
-    
+    - Finished Morgan's tutorial, which stopped at landmarks
+    - Synced master branch with our forked repository
+    - Ran alignments and landmarks and manually changing codes
     
  - Kalynn
     
@@ -20,7 +22,9 @@
      - Don't understand the backend process such as how the program ran
      
  - Emma
-     - unable to change kernel in jypter (no deltascope :( )
+     - Don't understand the backend process such as how the program ran
+     - Some errors when trying to run landmarks
+     - We still have two other files we need to run, but no guidance/tutorial
      
  - Kalynn
      - unable to change kernel in jypter (no deltascope :( )
@@ -34,9 +38,10 @@
     - List things for the program to be improved
     
  - Emma
-    - meet w jake to discuss the installations
-    - get updated code
-    - get the big data
+    - Having a clear goal of what changes we could make
+    - Fix errors in landmarks
+    - Start programming
+    - List things for the program to be improved
     
  - Kalynn
     - meet w jake to discuss the installations
