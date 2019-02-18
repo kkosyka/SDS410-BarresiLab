@@ -1,3 +1,49 @@
+## 2019-02-18
+
+ ### What did you do this week?
+
+ - Crystal
+    - Finished Morgan's tutorial, which stopped at landmarks
+    - Manually modified sample 02 using Correction Methods
+    - Ran landmarks, tried different bin values
+    
+ - Emma
+    
+    
+ - Kalynn
+    
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - Don't understand the backend process such as how the program ran
+     
+ - Emma
+     - unable to change kernel in jypter (no deltascope :( )
+     
+ - Kalynn
+     - unable to change kernel in jypter (no deltascope :( )
+
+
+### What are you planning to do next week?
+
+ - Crystal
+    - Having a clear goal of what changes we could make
+    - Start programming
+    - List things for the program to be improved
+    
+ - Emma
+    - meet w jake to discuss the installations
+    - get updated code
+    - get the big data
+    
+ - Kalynn
+    - meet w jake to discuss the installations
+    - get updated code
+    - get the big data
+
+
 
 ## 2019-02-11
 
