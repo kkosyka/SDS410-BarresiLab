@@ -13,7 +13,9 @@
     - Ran alignments and landmarks and manually changing codes
     
  - Kalynn
-    
+    - Finished Morgan's tutorial, which stopped at landmarks
+    - Synced master branch with our forked repository
+    - Ran alignments and attempted landmarks
 
 
 ### What is it that you're struggling with right now?
@@ -27,7 +29,8 @@
      - We still have two other files we need to run, but no guidance/tutorial
      
  - Kalynn
-     - unable to change kernel in jypter (no deltascope :( )
+     - some parts of code, need to run through the libraries used
+     - still questions unanswered in terms of continuing on
 
 
 ### What are you planning to do next week?
@@ -44,10 +47,10 @@
     - List things for the program to be improved
     
  - Kalynn
-    - meet w jake to discuss the installations
-    - get updated code
-    - get the big data
-
+   - meeting with client
+   - start programming
+   - get better understanding of the code
+   - find things needed for potential improvment
 
 
 ## 2019-02-11
