@@ -1,3 +1,25 @@
+## 2019-02-19
+
+## Meeting Notes
+### Where to go after running the sample data
+   -AT has to be processed first (all the alignments are done on) so that we know what things are relative to
+   -ZRF-1 is the associated signal (in relation to AT), it is the actual flag
+
+### Manually changing bins
+   -AT Wild type radius 20
+   -AT You-too radius 10 
+
+### Potential program improvements?
+   -Slider to produce the best alignment? Calibration 
+   -Find the best bin size? (similar to the idea of df and overfitting/underfitting)
+
+### Caveats for now
+   -Currently have to set the landmarks manually 
+   -Mathematically determining the number of landmarks
+
+
+
+
 ## 2019-02-05
 
 ## Meeting Notes
