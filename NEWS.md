@@ -1,3 +1,55 @@
+## 2019-02-25
+
+ ### What did you do this week?
+
+ - Crystal
+    - Finished Morgan's tutorial, which stopped at landmarks
+    - Manually modified sample 02 using Correction Methods
+    - Ran landmarks, tried different bin values
+    
+ - Emma
+    - Met with Crystal and Kalynn and ran through the alignment process
+    - Got our new data and split our data to do new alignments
+    - Running and correcting actual wild type alignment data
+    
+ - Kalynn
+    - Finished Morgan's tutorial, which stopped at landmarks
+    - Synced master branch with our forked repository
+    - Ran alignments and attempted landmarks
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - Don't understand the backend process such as how the program ran
+     
+ - Emma
+     - Want to move on to the coding stage
+     - Still not exactly clear about what to do next
+     
+ - Kalynn
+     - some parts of code, need to run through the libraries used
+     - still questions unanswered in terms of continuing on
+
+
+### What are you planning to do next week?
+
+ - Crystal
+    - Having a clear goal of what changes we could make
+    - Start programming
+    - List things for the program to be improved
+    
+ - Emma
+    - Meeting with our client again
+    - Give our client our new alignments
+    - Specify things to do
+    
+ - Kalynn
+   - meeting with client
+   - start programming
+   - get better understanding of the code
+   - find things needed for potential improvment
+
 ## 2019-02-18
 
  ### What did you do this week?
