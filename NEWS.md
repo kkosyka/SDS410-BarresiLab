@@ -14,9 +14,10 @@
     - Running and correcting actual wild type alignment data
     
  - Kalynn
-    - Finished Morgan's tutorial, which stopped at landmarks
-    - Synced master branch with our forked repository
-    - Ran alignments and attempted landmarks
+    - Met w client and Jake with updated progress
+    - Meeting to distribute the sample data per person
+    - ran over the process
+    - ran only 1-2 alignments 
 
 
 ### What is it that you're struggling with right now?
@@ -29,8 +30,7 @@
      - Still not exactly clear about what to do next
      
  - Kalynn
-     - some parts of code, need to run through the libraries used
-     - still questions unanswered in terms of continuing on
+     - waiting for coding steps?
 
 
 ### What are you planning to do next week?
@@ -46,10 +46,10 @@
     - Specify things to do
     
  - Kalynn
-   - meeting with client
-   - start programming
-   - get better understanding of the code
-   - find things needed for potential improvment
+   - finish up my part of the alignments
+   - meeting with client again
+   - compare our alignments to jake's aligments
+  
 
 ## 2019-02-18
 
