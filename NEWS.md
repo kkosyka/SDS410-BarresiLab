@@ -3,9 +3,10 @@
  ### What did you do this week?
 
  - Crystal
-    - Finished Morgan's tutorial, which stopped at landmarks
-    - Manually modified sample 02 using Correction Methods
-    - Ran landmarks, tried different bin values
+    - Met with Prof. Barresi and Jake and updated our progress.
+    - Distributed sample data, uploaded data on github.
+    - Distributed work among three of us.
+    - Aligned 14 sample data and generated an aggregated sample output as well as an html for all the plots.
     
  - Emma
     - Met with Crystal and Kalynn and ran through the alignment process
