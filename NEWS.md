@@ -13,11 +13,8 @@
     - Met with Crystal to discuss back-end code
     
  - Kalynn
-    - Met w client and Jake with updated progress
-    - Meeting to distribute the sample data per person
-    - ran over the process
-    - ran only 1-2 alignments 
-
+    - Attempted to download and align wild type and you too
+    - Family emergency
 
 ### What is it that you're struggling with right now?
 
@@ -28,7 +25,7 @@
      - Coding
      
  - Kalynn
-     - waiting for coding steps?
+     - alignment install
 
 
 ### What are you planning to do next week?
@@ -44,9 +41,9 @@
     - Run over issues with client and see if he's ok with what we want to do
     
  - Kalynn
-   - finish up my part of the alignments
-   - meeting with client again
-   - compare our alignments to jake's aligments
+   -  Meeting w client
+   - compare alignments
+   - catch up
 
 ## 2019-02-25
 
