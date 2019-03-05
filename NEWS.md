@@ -3,11 +3,10 @@
  ### What did you do this week?
 
  - Crystal
-    - Met with Prof. Barresi and Jake and updated our progress.
-    - Distributed sample data, uploaded data on github.
-    - Distributed work among three of us.
-    - Aligned 14 sample data and generated an aggregated sample output as well as an html for all the plots.
-    
+    - Aligned You Too sample data and generated an aggregated sample output as well as an html for all the plots.
+    - Open issue for broken code 
+    - Organize issues opened by Morgan and Margret.
+
  - Emma
     - Aligned 14 Wild Type sample data and generated an aggregated sample output as well as an html for all the plots.
     - Aligned 22 You-Too sample data and generated an aggregated sample output as well as an html for all the plots.
