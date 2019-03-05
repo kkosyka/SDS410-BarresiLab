@@ -22,7 +22,7 @@
 ### What is it that you're struggling with right now?
 
  - Crystal
-     - Don't understand the backend process such as how the program ran
+     - Confused by the structure of the code.
      
  - Emma
      - Coding
