@@ -1,3 +1,54 @@
+## 2019-03-5
+
+ ### What did you do this week?
+
+ - Crystal
+    - Met with Prof. Barresi and Jake and updated our progress.
+    - Distributed sample data, uploaded data on github.
+    - Distributed work among three of us.
+    - Aligned 14 sample data and generated an aggregated sample output as well as an html for all the plots.
+    
+ - Emma
+    - Aligned 14 Wild Type sample data and generated an aggregated sample output as well as an html for all the plots.
+    - Aligned 22 You-Too sample data and generated an aggregated sample output as well as an html for all the plots.
+    - Met with Crystal to discuss back-end code
+    
+ - Kalynn
+    - Met w client and Jake with updated progress
+    - Meeting to distribute the sample data per person
+    - ran over the process
+    - ran only 1-2 alignments 
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - Don't understand the backend process such as how the program ran
+     
+ - Emma
+     - Coding
+     
+ - Kalynn
+     - waiting for coding steps?
+
+
+### What are you planning to do next week?
+
+ - Crystal
+    - Having a clear goal of what changes we could make
+    - Start programming
+    - List things for the program to be improved
+    
+ - Emma
+    - Meeting with our client today
+    - Give our client our new alignments
+    - Run over issues with client and see if he's ok with what we want to do
+    
+ - Kalynn
+   - finish up my part of the alignments
+   - meeting with client again
+   - compare our alignments to jake's aligments
+
 ## 2019-02-25
 
  ### What did you do this week?
