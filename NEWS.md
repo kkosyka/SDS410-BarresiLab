@@ -2,6 +2,8 @@
 - Crystal
   - Worked on the `__init__.py` code, understaning the dimension parameters x,y,z.
   - Worked on DataCamp Intermediate Python for Data Science-Dictionaries & Pandas
+- Emma
+  - Worked on updating README
 
 
 ## 2019-03-5
