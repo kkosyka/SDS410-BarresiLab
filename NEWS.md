@@ -4,6 +4,9 @@
   - Worked on DataCamp Intermediate Python for Data Science-Dictionaries & Pandas
 - Emma
   - Worked on updating README
+- Kalynn
+  - review some code
+  - looked into interactivity via python
 
 
 ## 2019-03-5
