@@ -1,3 +1,9 @@
+## 2019-03-19
+- Crystal
+  - Worked on the `__init__.py` code, understaning the dimension parameters x,y,z.
+  - Worked on DataCamp Intermediate Python for Data Science-Dictionaries & Pandas
+
+
 ## 2019-03-5
 
  ### What did you do this week?
