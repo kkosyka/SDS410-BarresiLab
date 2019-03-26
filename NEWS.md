@@ -1,3 +1,50 @@
+## 2019-03-26
+
+ ### What did you do this week?
+
+ - Crystal
+    - Aligned You Too sample data and generated an aggregated sample output as well as an html for all the plots.
+    - Open issue for broken code 
+    - Organize issues opened by Morgan and Margret.
+
+ - Emma
+    - Aligned 14 Wild Type sample data and generated an aggregated sample output as well as an html for all the plots.
+    - Aligned 22 You-Too sample data and generated an aggregated sample output as well as an html for all the plots.
+    - Met with Crystal to discuss back-end code
+    
+ - Kalynn
+    - help start up readme/img
+    - Continued to look at the interactivity for the user
+    - sick :(
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - Confused by the structure of the code.
+     
+ - Emma
+     - Coding
+     
+ - Kalynn
+     - pulling out the model that I want user to interact w
+
+
+### What are you planning to do next week?
+
+ - Crystal
+    - Having a clear goal of what changes we could make
+    - Start programming
+    - List things for the program to be improved
+    
+ - Emma
+    - Meeting with our client today
+    - Give our client our new alignments
+    - Run over issues with client and see if he's ok with what we want to do
+    
+ - Kalynn
+   - look for interactivity for single plots
+   - look for interactivity for subplots
+
 ## 2019-03-19
 - Crystal
   - Worked on the `__init__.py` code, understaning the dimension parameters x,y,z.
