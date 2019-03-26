@@ -8,9 +8,8 @@
     - Organize issues opened by Morgan and Margret.
 
  - Emma
-    - Aligned 14 Wild Type sample data and generated an aggregated sample output as well as an html for all the plots.
-    - Aligned 22 You-Too sample data and generated an aggregated sample output as well as an html for all the plots.
-    - Met with Crystal to discuss back-end code
+    - Writing the README
+    - Run several sample alignments so that I can put them in README
     
  - Kalynn
     - help start up readme/img
@@ -23,8 +22,8 @@
      - Confused by the structure of the code.
      
  - Emma
-     - Coding
-     
+     - Needs to re-adjust the size of pictures in README.
+    
  - Kalynn
      - pulling out the model that I want user to interact w
 
@@ -37,9 +36,9 @@
     - List things for the program to be improved
     
  - Emma
-    - Meeting with our client today
-    - Give our client our new alignments
-    - Run over issues with client and see if he's ok with what we want to do
+    - Going to move onto other parts of the project.
+    - Pick one issue, look through the code, try to find a solution.
+    - If can't do it alone, ask for help.
     
  - Kalynn
    - look for interactivity for single plots
