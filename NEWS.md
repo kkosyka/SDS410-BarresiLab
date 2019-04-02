@@ -1,3 +1,43 @@
+## 2019-04-02
+
+ ### What did you do this week?
+
+ - Crystal
+    - 
+
+ - Emma
+    - 
+    
+ - Kalynn
+    - meetings
+    - catch up on missed meetings
+    - review and workd w cranium and 2d & 3d functions
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - 
+     
+ - Emma
+     - 
+    
+ - Kalynn
+     - 3d approach and how to improve
+
+
+### What are you planning to do next week?
+
+ - Crystal
+    - 
+    
+ - Emma
+    - 
+    
+ - Kalynn
+   - contineu to lok for 3d improvments
+   - potential API for data, how to store h5 data appropriately
+
+
 ## 2019-03-26
 
  ### What did you do this week?
