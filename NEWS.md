@@ -6,7 +6,9 @@
     - 
 
  - Emma
-    - 
+    - Finish editing README
+    - Met with Ben and discussed about other options (switching gears)
+    - Working with R pacakge `hdf5r` and `rgl`, also `cranium`
     
  - Kalynn
     - meetings
@@ -19,7 +21,9 @@
      - 
      
  - Emma
-     - 
+     - Continue to understand how `hdf5r` works
+     - Make 3d plotting work (it works now, but the plot is not the best)
+
     
  - Kalynn
      - 3d approach and how to improve
@@ -31,7 +35,9 @@
     - 
     
  - Emma
-    - 
+    - Look into API
+    - Make progress on 3d plotting (and possible adjustments in plotting)
+    - Editing functions in `cranium`
     
  - Kalynn
    - contineu to lok for 3d improvments
