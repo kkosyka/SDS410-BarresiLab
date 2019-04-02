@@ -3,7 +3,8 @@
  ### What did you do this week?
 
  - Crystal
-    - 
+    - Edit the function of read in h5 file so that it also works for `hdf5r`
+    - Learned S3 from Advanced R online book `https://adv-r.hadley.nz/s3.html#s3-methods`
 
  - Emma
     - Finish editing README
@@ -18,7 +19,7 @@
 ### What is it that you're struggling with right now?
 
  - Crystal
-     - 
+     - Still need to figure out how to add visualization improvements built on the `plot3d`
      
  - Emma
      - Continue to understand how `hdf5r` works
@@ -32,7 +33,8 @@
 ### What are you planning to do next week?
 
  - Crystal
-    - 
+    - Add visualization improvements built on the `plot3d`
+    - Learn API
     
  - Emma
     - Look into API
