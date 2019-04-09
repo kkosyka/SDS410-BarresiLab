@@ -1,4 +1,46 @@
-## 2019-04-02
+
+## 2019-04-09
+
+ ### What did you do this week?
+
+ - Crystal
+    - Evaluated the "ideal" threshold for the frequency for Wild Type data and You-Too data.
+    - Wrote function for model fit assesments. 
+       -number of signals
+       -r square, RMLSE, quadratic coefficient 
+
+ - Emma
+
+    
+ - Kalynn
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - How to determine the "ideal" threshold. How could we incorporate variable bias trade off here? 
+     - Are there other ways to evaluate the model? How  do we identify when PCA didn't fit the correct first line? I understand that there are the largest variation along this line. 
+     
+ - Emma
+
+    
+ - Kalynn
+
+
+### What are you planning to do next week?
+
+ - Crystal
+   - Learn API
+   - Work on the variance bias trade off.
+   - Write functions that could identify difeerent PCA transformation errors.
+    
+ - Emma
+   
+    
+ - Kalynn
+   
+   
+   ## 2019-04-02
 
  ### What did you do this week?
 
