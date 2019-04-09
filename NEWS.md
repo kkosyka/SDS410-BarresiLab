@@ -13,6 +13,7 @@
 
     
  - Kalynn
+  - AWS Bucket access, upload *.h5
 
 
 ### What is it that you're struggling with right now?
@@ -25,6 +26,7 @@
 
     
  - Kalynn
+   - access denied aws
 
 
 ### What are you planning to do next week?
@@ -38,7 +40,8 @@
    
     
  - Kalynn
-   
+   - make data public/readonly
+   - other potential soltuions
    
    ## 2019-04-02
 
