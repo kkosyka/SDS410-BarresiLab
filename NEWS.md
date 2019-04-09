@@ -10,6 +10,8 @@
        -r square, RMLSE, quadratic coefficient 
 
  - Emma
+    - Looped through folder to read in data
+    - Went through crystal's code and started writing function on freq & fit tradeoff
 
     
  - Kalynn
@@ -23,8 +25,8 @@
      - Are there other ways to evaluate the model? How  do we identify when PCA didn't fit the correct first line? I understand that there are the largest variation along this line. 
      
  - Emma
-
-    
+     - Still in the progress of writing functions, will probably have struggles later
+  
  - Kalynn
    - access denied aws
 
@@ -37,7 +39,7 @@
    - Write functions that could identify difeerent PCA transformation errors.
     
  - Emma
-   
+   - Work on the variance bias trade off.
     
  - Kalynn
    - make data public/readonly
