@@ -8,12 +8,9 @@
     - Update function for qmodel and tidy 
 
  - Emma
-    - Looped through folder to read in data
-    - Went through crystal's code and started writing function on freq & fit tradeoff
-
     
  - Kalynn
-  - AWS Bucket access, upload *.h5
+  
 
 
 ### What is it that you're struggling with right now?
