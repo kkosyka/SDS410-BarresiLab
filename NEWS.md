@@ -1,4 +1,47 @@
+## 2019-04-16
 
+ ### What did you do this week?
+
+ - Crystal
+    - Run qmodel for 11 threshold for wildtype and 21 thresholds for youtoo. Find optimal threshold for each sample defined by reaching its highest adjusted r^2.
+    - Plot all youtoo sample for 3 different thresholds and visually compared.
+    - Update function for qmodel and tidy 
+
+ - Emma
+    - Looped through folder to read in data
+    - Went through crystal's code and started writing function on freq & fit tradeoff
+
+    
+ - Kalynn
+  - AWS Bucket access, upload *.h5
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - There exists large variation among samples, hard to find the optimal threshold for all. 
+     - Hard to evaluate whether PCA transformation is correct by looking at the plot2d in Cranium.
+     
+ - Emma
+    
+    
+ - Kalynn
+   
+
+
+### What are you planning to do next week?
+
+ - Crystal
+   - Using optimization to find out the best threshold.
+   - 
+    
+ - Emma
+   
+    
+ - Kalynn
+ 
+   
+   
 ## 2019-04-09
 
  ### What did you do this week?
