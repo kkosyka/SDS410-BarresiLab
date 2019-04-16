@@ -8,6 +8,10 @@
     - Update function for qmodel and tidy 
 
  - Emma
+    - Finished threshold & model fit tradeoff
+    - Ran wild-type and you-too data with different thresholds, some visualizations
+    - Paper
+    - Meeting with client
     
  - Kalynn
    - API
@@ -24,7 +28,9 @@
      - Hard to evaluate whether PCA transformation is correct by looking at the plot2d in Cranium.
      
  - Emma
-    
+    - meeting with client was confusing 
+    - Not sure how to implement what client wants into our things
+    - using the same threshold for you-too and wild-type, as requested by client
     
  - Kalynn
    - meeting w confusiing components relative to what we have now?
@@ -38,7 +44,8 @@
    - 
     
  - Emma
-   
+   - help optimization
+   - help with things Jake defines success as
     
  - Kalynn
    - help optimization w what Jake wants?
