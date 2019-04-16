@@ -41,7 +41,6 @@
 
  - Crystal
    - Using optimization to find out the best threshold.
-   - 
     
  - Emma
    - help optimization
