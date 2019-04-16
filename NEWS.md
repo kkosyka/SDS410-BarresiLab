@@ -10,6 +10,10 @@
  - Emma
     
  - Kalynn
+  - API
+  - functions for API
+  - meetings
+  - paper
   
 
 
@@ -23,6 +27,7 @@
     
     
  - Kalynn
+  - meeting w confusiing components relative to what we have now?
    
 
 
@@ -36,6 +41,7 @@
    
     
  - Kalynn
+  - help optimization w what Jake wants?
  
    
    
