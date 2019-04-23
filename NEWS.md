@@ -10,7 +10,8 @@
     - Wrote function `CorrectionA` and edit `reorient` function for fixing alignment error for `errorA`.
 
  - Emma
-    - 
+    - Cleaned up wildtype and youtoo threshold signals output and wrote code to plot and find the optimal threshold for both types
+    - Worked on paper draft.
     
  - Kalynn
    - 
@@ -23,7 +24,7 @@
      - Finding a way to identify PCA alignment errors and fix them. 
      
  - Emma
-    - 
+    - Finding a way to identify PCA alignment errors and fix them.
     
  - Kalynn
    - 
@@ -37,7 +38,8 @@
    -Work on the methods and results for the paper.
     
  - Emma
-   - 
+   - Work on the methods and results for the paper.
+   - Work on functions to identiy alignment errors.
    
  - Kalynn
    - 
