@@ -14,7 +14,8 @@
     - Worked on paper draft.
     
  - Kalynn
-   - 
+   - Attempted API
+   - help with paper
   
 
 
@@ -27,7 +28,7 @@
     - Finding a way to identify PCA alignment errors and fix them.
     
  - Kalynn
-   - 
+   - Help with identify PCA
    
 
 
@@ -42,7 +43,8 @@
    - Work on functions to identiy alignment errors.
    
  - Kalynn
-   - 
+   - help w functions
+   - write more general API without having to pull requests
 
 ## 2019-04-16
 
