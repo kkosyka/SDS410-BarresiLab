@@ -6,6 +6,8 @@
     - Tested for more thresholds for wildtype and youtoo sample. Compared adjusted r2 for wild type and for youtoo for each threshold. And find the optimal threshold for both wild type and youtoo that gives the lowest Euclidean distance to (1,1). 
     - Edited the `plot2d` function so that it plots a line for x,z and y,z plane, and parabola for x,y plane.  
     - Worked on the draft paper.
+    - Wrote function `errorA` for identifing alignment error for flipped y-axis.
+    - Wrote function `CorrectionA` and edit `reorient` function for fixing alignment error for `errorA`.
 
  - Emma
     - 
