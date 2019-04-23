@@ -1,3 +1,45 @@
+## 2019-04-23
+
+ ### What did you do this week?
+
+ - Crystal
+    - Tested for more thresholds for wildtype and youtoo sample. Compared adjusted r2 for wild type and for youtoo for each threshold. And find the optimal threshold for both wild type and youtoo that gives the lowest Euclidean distance to (1,1). 
+    - Edited the `plot2d` function so that it plots a line for x,z and y,z plane, and parabola for x,y plane.  
+    - Worked on the draft paper.
+
+ - Emma
+    - 
+    
+ - Kalynn
+   - 
+  
+
+
+### What is it that you're struggling with right now?
+
+ - Crystal
+     - Finding a way to identify PCA alignment errors and fix them. 
+     
+ - Emma
+    - 
+    
+ - Kalynn
+   - 
+   
+
+
+### What are you planning to do next week?
+
+ - Crystal
+   -Write functions that identify each alignment error and fix it.
+   -Work on the methods and results for the paper.
+    
+ - Emma
+   - 
+   
+ - Kalynn
+   - 
+
 ## 2019-04-16
 
  ### What did you do this week?
